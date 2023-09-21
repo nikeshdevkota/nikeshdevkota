@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikeshdevkota](https://github.com/nikeshdevkota)
 
-- 💬 Ask me about **Software Quality Analysis**
+- 💬 Ask me about **Image Classification** , **Object Detection** , **Software Quality Analysis**
 
 - 📫 How to reach me **nikeshdevkota28@gmail.com**
 
