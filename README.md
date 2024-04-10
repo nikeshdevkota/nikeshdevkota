@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Image Classification** , **Object Detection** , **Software Quality Analysis**
 
-- 📫 How to reach me **nikeshdevkota28@gmail.com**
+- 📫 How to reach me **nikeshdevkota28@gmail.com** or **nikeshdevkota28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
