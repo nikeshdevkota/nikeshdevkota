@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikesh Devkota</h1>
-<h4 align="center">Research Assistant in Department of Information and Communication Engineering in CWNU.</h4>
+<!-- <h4 align="center">Research Assistant in Department of Information and Communication Engineering in CWNU.</h4> -->
 
 - 🌱 I’m currently learning **Software QA Automation.**
 
