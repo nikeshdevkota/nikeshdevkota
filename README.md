@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikesh Devkota</h1>
 <h4 align="center">Research Assistant in Department of Information and Communication Engineering in CWNU.</h4>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Analysis, Computer Vision etc.**
+- 🌱 I’m currently learning **Software QA Automation.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikeshdevkota](https://github.com/nikeshdevkota)
 
-- 💬 Ask me about **Image Classification** , **Object Detection** , **Software Quality Analysis**
+- 💬 Ask me about **Web Automation** ,**API Testing** , **Cypress** , **Selenium**, **Postman**
 
-- 📫 How to reach me **nikeshdevkota28@gmail.com** or **nikeshdevkota07@gmail.com**
+- 📫 How to reach me **nikeshdevkota07@gmail.com** or **nikeshdevkota28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
