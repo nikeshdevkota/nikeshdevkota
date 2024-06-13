@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikeshdevkota](https://github.com/nikeshdevkota)
 
-- 💬 Ask me about **Web Automation** ,**API Testing** , **Cypress** , **Selenium**, **Postman**
+- 💬 Ask me about **Web Automation** , **API Testing** , **Cypress** , **Selenium**, **Postman**
 
 - 📫 How to reach me **nikeshdevkota07@gmail.com** or **nikeshdevkota28@gmail.com**
 
